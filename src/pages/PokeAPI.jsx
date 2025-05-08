@@ -1,8 +1,8 @@
-import './FootAPI.css'
+import './PokeAPI.css'
 
-function FootAPI() {
+function PokeAPI() {
   return (
-    <div className="foot-api">
+    <div className="poke-api">
       <h2>Vidéos de football (API Scorebat)</h2>
       
 
@@ -11,4 +11,4 @@ function FootAPI() {
   )
 }
 
-export default FootAPI
+export default PokeAPI

@@ -2,7 +2,7 @@
 
 ##  Choix de l'API pour la page "FootAPI"
 
-J'ai choisi l'API **Scorebat - Football Videos** (https://www.scorebat.com/video-api/) pour alimenter la page dédiée à mon centre d'intérêt : le football.
+J'ai choisi l'API **Pokeapi - info sur les pokemons** (https://pokeapi.co/) pour alimenter la page dédiée à mon centre d'intérêt.
 
 ###  Fonctionnalités prévues :
 
@@ -42,3 +42,7 @@ J'ai choisi l'API **Scorebat - Football Videos** (https://www.scorebat.com/video
 ## fonctionnalité bonus 
 - Ajout d’un thème sombre/clair
 - et peut-être +
+
+## Retroaction du prof
+- le 8 mai 
+- changer pour une api gratuite et mettre à jour le readme avec l'api 
